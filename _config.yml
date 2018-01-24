@@ -48,11 +48,12 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: false
 
 # Netease setttings
 netease_comment: false
 
+livere_uid: MTAyMC8zMzUzMS8xMDA4Nw==
 
 
 # Analytics settings
