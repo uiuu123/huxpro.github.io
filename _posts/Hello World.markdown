@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello World"
+title:      "Home"
 subtitle:   "Hello World, Hello Blog"
 date:       2018-01-24 17:00:00
 author:     "小橘"
