@@ -21,4 +21,4 @@ tags:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我知道大概不太会有人亲手输入miaomiao.io进来看，所以愿意敲这个域名的，都是真爱：）为了不辜负真爱的期望，我一定会加油的！也希望您能不时进来看看。日后我会找一个靠谱的云评论托管平台，供您发表高见。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So...共勉吧~种下这颗种子，希望它能长成参天大树。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So...共勉吧！种下这颗种子，希望它能长成参天大树。
