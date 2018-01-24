@@ -5,6 +5,7 @@ subtitle:   "Hello World, Hello Blog"
 date:       2018-01-24 17:00:00
 author:     "小橘"
 header-img: "img/hello-world .png"
+catalog:      true
 tags:
     - 日常
 ---
