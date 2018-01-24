@@ -4,7 +4,7 @@ title:      "Hello World1"
 subtitle:   "Hello World, Hello Blog"
 date:       2018-01-24 17:00:00
 author:     "小橘"
-header-img: "http://ww2.sinaimg.cn/large/0060lm7Tly1fnrw3opowij30zk0hht9p.jpg"
+header-img: "img/hello-world.png"
 tags:
     - 日常
 ---
