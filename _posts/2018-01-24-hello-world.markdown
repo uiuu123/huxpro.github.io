@@ -6,6 +6,7 @@ date:       2018-01-24 17:00:00
 author:     "小橘"
 header-img: "img/hello-world .png"
 catalog:      true
+multilangual: false
 tags:
     - 日常
 ---
