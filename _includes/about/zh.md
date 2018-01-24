@@ -13,8 +13,8 @@
 
 ### 这个blog的进度条如下：
 大框架：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■■■■□ 80% （基本上好了）
-评论区：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■□□□□ 20% （用都不能用）
-分类导航栏：□□□□□  0% &nbsp;&nbsp;（还在研究）
-微博客功能：□□□□□  0% &nbsp;&nbsp;（还在研究）
+<br>评论区：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■□□□□ 20% （用都不能用）
+<br>分类导航栏：□□□□□  0% &nbsp;&nbsp;（还在研究）
+<br>微博客功能：□□□□□  0% &nbsp;&nbsp;（还在研究）
 
 
